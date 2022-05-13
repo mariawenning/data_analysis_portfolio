@@ -1,0 +1,1 @@
+Hotel Bookings -- analysis of hotel bookings with Pandas. Read_csv, info, rename, groupby, agg, query, sort_values, idxmax, idxmin, value_counts, pivot methods were used for **Exploratory data analysis**. The customer **churn rate** was calculated.
