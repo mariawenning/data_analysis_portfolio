@@ -1,12 +1,13 @@
 In this mini-project I analysed the data of Hotel bookings with Pandas. 
 
-Goals of the project:
- - **Exploratory Data Analysis** 
- - **Calculate the Customer Churn Rate**
+**1. Goals of the project:**
+ - Exploratory Data Analysis 
+ - Calculate the Customer Churn Rate
 
-Functions used: read_csv, dtype, info, rename, groupby, agg, query, sort_values, idxmax, idxmin, value_counts.
+**2. Functions used: read_csv, dtype, info, rename, groupby, agg, query, sort_values, idxmax, idxmin, value_counts.**
 
-**Data description:**
+**3. Data description:**
+
 The following variables are available:
 
  - Hotel - type of hotel (City Hotel or Resort Hotel)  
